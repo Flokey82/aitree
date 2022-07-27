@@ -1,8 +1,9 @@
 package main
 
 import (
-	"github.com/Flokey82/go_gens/aitree"
 	"log"
+
+	"github.com/Flokey82/go_gens/aitree"
 )
 
 func main() {
